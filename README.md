@@ -25,6 +25,8 @@ npm start
 
 for generating all scripts into the "dist" folder.
 
+[![githalytics.com alpha](https://cruel-carlota.gopagoda.com/2f8e2fdd3afff78b8d172693243b43b0 "githalytics.com")](http://githalytics.com/olihel/cs-scripts)
+
 <br>
 <sub>**License**</sub>  
 <sub>The MIT License (MIT)</sub>  
