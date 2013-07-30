@@ -1,0 +1,28 @@
+{
+  "globals": {
+    "$": false,
+    "alert": false,
+    "console": false,
+    "module": false,
+    "app": false,
+    "File": false
+  },
+
+  "forin": true,
+  "immed": true,
+  "indent": 2,
+  "latedef": true,
+  "noarg": true,
+  "noempty": true,
+  "nonew": true,
+  "quotmark": true,
+  "undef": true,
+  "unused": true,
+  "scripturl": true,
+  "trailing": true,
+
+  "loopfunc": true,
+  "expr": true,
+
+  "white": true
+}
