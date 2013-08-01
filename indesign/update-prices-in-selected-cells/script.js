@@ -12,7 +12,7 @@
   };
 
   var formatPrice = function (num) {
-    var str = (Math.floor(num * 10) / 10).toFixed(2).toString();
+    var str = (Math.round(num * 10) / 10).toFixed(2).toString();
     return str.split('.').join(',');
   };
 
