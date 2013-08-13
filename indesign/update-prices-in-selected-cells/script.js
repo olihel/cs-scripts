@@ -8,7 +8,7 @@
 
 (function () {
   var calculatePrice = function (price) {
-    return price * 1.05;
+    return price * 1.06;
   };
 
   var formatPrice = function (num) {
